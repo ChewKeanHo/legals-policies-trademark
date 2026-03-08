@@ -1,12 +1,12 @@
-# Logo Branding Guidelines | (Holloway) Chew, Kean Ho's Legal & Licenses
+# Logos & Wordmark Branding Guidelines | (Holloway) Chew, Kean Ho's Legal & Licenses
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-The `(Holloway) Chew, Kean Ho` natural trademark logo **MUST** be used in
-accordance with these official branding guidelines. Although the logos are
-provided under one of the free and open
-[Creative Commons Licenses](https://creativecommons.org/), **you are also
-required to comply with local trademark laws**.
+The `(Holloway) Chew, Kean Ho` natural and product trademark logos **MUST** be
+used in accordance with these official branding guidelines. Although the logos
+are provided under one of the free and open
+[Creative Commons Licenses](https://creativecommons.org/), **you are required to
+comply with your local trademark laws**.
 
 
 
@@ -15,107 +15,53 @@ required to comply with local trademark laws**.
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-By default, you are **STRICTLY PROHIBITED (NOT ALLOWED)** for any use of our
-logos and brands. All logos and wordmark are protected by the natural trademark
-`CHEW KEAN HO` who is a natural person by laws.
+By default, use of these trademarks is rare and you are **STRICTLY PROHIBITED
+(NOT ALLOWED)** for any use of our logos and brands. All logos and wordmark are
+protected under the `CHEW KEAN HO` natural trademark who is a natural person by
+laws.
 
 
 
-### Referencing Us, Our Products, and Our Services
+### Referencing Us
 
-You are **PERMITTED TO USE** our wordmark "`(Holloway) Chew, Kean Ho`" to
-reference us, our products, and our services **in text form only**.
+When referencing Us (as in `(Holloway) chew, Kean Ho`), you are **ONLY PERMITTED
+TO USE** our wordmark `(Holloway) Chew, Kean Ho` **in text form**. Uses of our
+natural trademark logos **requires our written agreement**.
 
-To use any of our logos, you **MUST** procure our written agreement before any
-use.
+
+
+### Referencing Our Products & Services
+
+When referencing Our products and services, you **can use both** our wordmark
+and our product trademark logos without needing a written agreement approval.
+
+When using our products' and services' wordmark, **DO NOT REMOVE** the natural
+trademark therein (as in `(Holloway) Chew, Kean Ho` from
+`(Holloway) Chew, Kean Ho's Product Name`). We practice namespace scoping across
+all domains so maintain the `[owner]'s [subject]` relationship.
+
+You are, however, **STRICTLY PROHIBITED (strong disallowed)** to modify any of
+our products & services' trademarks. Should you need a custom design, please
+reach out to us.
 
 
 
 ### Producing Our Products
 
-You **MUST** procure our written agreement before any use of **our wordmark and
-icon trademark**.
-
 For our production partners, please refer to our written agreement and product's
-engineering specifications.
+engineering specifications. Otherwise, our default conditions above remain
+effective.
 
 
 
 
-## Design Specifications
+## Design Principles & Specifications
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-Our logos are designed with specific purposes and functions.
-
-
-
-### Multi-Colors Purpose-Driven
-
-We derived the logos in 9 different colors with SVG animation in multiple
-known dimensions. The color-oriented deployments are:
-
-* **BLUE (Dark Blue)** - official identity.
-* **CYAN (Light Blue)** - unused.
-* **GREEN** - agriculture & aquaculture branch.
-* **GREY** - official automaton identity (e.g. concierge robots, automations,
-             etc).
-* **ORANGE** - unused.
-* **PINK** - unused.
-* **PURPLE** - unused.
-* **RED** - unused.
-* **YELLOW** - unused.
-* **MONOCHROME (Black on White)** - official identity for single color printing
-  or CNC milling and engraving applications.
-* **INVERTED MONOCHROME (White on Black)** - official identity for single color
-  printing or CNC milling and engraving applications.
-
-
-
-### Functional Dimensions
-
-The logos are prepared with functional purposes. These are the known dimensions
-for their purposes:
-
-* **1200px x 1200px** - official icon uses.
-* **1200px x 630px** - official social media OpenGraph and Progressive Web App
-  horizontal screen uses.
-* **1200px x 200px** - official horizontal banner uses.
-* **1200px x 100px** - official separator uses (e.g. document sections split).
-* **310px x 150px** - official Microsoft Windows tiling uses.
-* **493px x 58px** - official Microsoft Software Installer (`.msi`) uses.
-* **493px x 312px** - official Microsoft Software Installer (`.msi`) uses.
-* **630px x 1200px** - official web Progressive Web App vertical screen uses.
-* **7680px x 4320px** - official multimedia 8K material uses.
-
-
-
-### Flexible File Formats
-
-All logos are provided in the following file formats depending on availability
-and uses:
-
-* `.svg` - the primary adaptable vector format. Use across any platforms
-  including web, mobile apps, and other file format productions.
-* `.avif` - the primary rasterized rendered image.
-* `.webp` - the secondary rasterized rendered image.
-* `.jpg` - the fallback rasterized file format.
-* `.png` - the fallback rasterized file format.
-
-
-
-### Adaptive Padding Spaces
-
-All logos **included 10% padding space** from all directions to ensure web
-readiness, in compliance with the following standards:
-
-* https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
-* https://web.dev/articles/maskable-icon
-* https://developer.x.com/en/docs/x-for-websites/cards/overview/summary-card-with-large-image
-* https://developers.facebook.com/docs/sharing/webmasters/images/
-
-Therefore, please **ONLY USE** the right color and the specified dimensions for
-the specific use purposes only.
+Our logos are designed with specific purposes and functions first. They are
+aligned to our values for being adaptive to changes while maintaining our
+professionalism. Below describes the engineering specifications.
 
 
 
@@ -129,19 +75,124 @@ open source graphical software as follows:
 * **Inkscape (https://inkscape.org)** - for vector graphics maintenances and
   exporting SVG plain vector files.
 
-They can be procured freely on your side from their official website. Therefore,
-when using our logos, it **SHOULD NOT** requires you to purchase or subscribe
-expensive image editing software just for basic editing modifications.
+They are freely available for you to download from their official website.
+Therefore, when using our logos, it **SHOULD NOT** requires you to purchase or
+subscribe expensive image editing software just for basic editing modifications.
+
+
+
+### Choose the Right Color with Purpose
+
+[![banner](/.internals/figures/color-demo_1200x200.svg)](#)
+
+All our logos are published in various colors formats. By default and when in
+doubt, **use the BLUE (Dark Blue)** official variant.
+
+There are no specific engineering specification for other colors but rather
+having us being adaptable to various colorful and colorless environments.
+
+In any case, use the following as a good application guideline:
+
+* **BLUE (Dark Blue)**
+  - (default) official.
+* **CYAN (Light Blue)**
+  - unused.
+* **GREEN**
+  - commonly used for agriculture & aquaculture media content.
+  - commonly used for Malaysia's Hari Raya event.
+* **GREY**
+  - official automaton identity (e.g. concierge robots, automations, etc).
+* **ORANGE**
+  - unused.
+* **PINK**
+  - unused.
+* **PURPLE**
+  - unused.
+* **RED**
+  - commonly used for critical products and services.
+  - commonly used for Chinese/Lunar New Year event.
+* **YELLOW**
+  - commonly used for finance and monetary related content.
+  - commonly used for Chinese/Lunar New Year event.
+* **MONOCHROME (Black on White)**
+  - commonly used for single color printing.
+  - commonly used for material CNC milling and surface engraving applications.
+  - commonly used for color masking purposes in web design.
+* **INVERTED MONOCHROME (White on Black)**
+  - commonly used for material CNC milling and surface engraving applications.
+  - commonly used for referencing in video credits segment.
+
+
+
+### Functional Dimensions
+
+We prepared all of logos in the following dimensions with functional purposes.
+You **are ONLY allowed to proportionally resize (e.g., from `1200x1200 (1:1)`
+to `512x512 (1:1)`) without written approval from us**.
+
+Otherwise, just use them in accordance to their designed purposes:
+
+* **1200px x 1200px**
+  - Square (`1:1`) default version.
+* **1200px x 630px**
+  - OpenGraph social media thumbnail and Progressive Web App horizontal screen.
+* **1200px x 200px**
+  - Horizontal large heading banner for web content.
+* **1200px x 100px**
+  - Horizontal section separator for documents and web content.
+* **310px x 150px**
+  - Microsoft Windows 8 tile for web content.
+* **493px x 58px**
+  - Microsoft Software Installer (`.msi`) head banner.
+* **493px x 312px**
+  - Microsoft Software Installer (`.msi`) background.
+* **630px x 1200px**
+  - Progressive Web App vertical screen.
+* **7680px x 4320px**
+  - Multimedia (e.g. video) 8K editing material (e.g. background).
+
+
+
+### Flexible File Formats
+
+We prepared all of logos in the following file formats.
+You **are ONLY allowed to export into new format using our `.svg` version using
+GIMP for maintaining all design quality**. Otherwise, just use them in
+accordance to their designed purposes:
+
+* `.svg` - primary adaptive vector file format.
+* `.avif` - primary rasterized rendered image.
+* `.jxl` - secondary rasterized rendered image.
+* `.webp` - secondary rasterized rendered image.
+* `.jpg` - fallback rasterized file format.
+* `.png` - fallback rasterized file format.
+
+
+
+### Adaptive Padding Spaces
+
+[![banner](/.internals/figures/padding-demo_1200x200.svg)](#)
+
+We prepared all of logos with **10% padding space from all directions** for
+adapting all design applications. You **are ONLY allowed to use the logos
+maintaining this padding space**.
+
+You can read more about the specifications below:
+
+* https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Define_app_icons
+* https://web.dev/articles/maskable-icon
+* https://developer.x.com/en/docs/x-for-websites/cards/overview/summary-card-with-large-image
+* https://developers.facebook.com/docs/sharing/webmasters/images/
 
 
 
 
-## Download Locations
+## Download Portals
 
 [![banner](/.internals/trademarks/banner_1200x100.svg)](#)
 
-Our multi-colored logos are available for download at the following portals
-(refer to `Releases` section) oriented by their dimensions:
+Our logos are available for downloads at the following portals (check out their
+`Release` section):
 
 
 ### Official
