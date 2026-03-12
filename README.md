@@ -236,7 +236,7 @@ follows:
 Title: Logo Branding Guidelines | (Holloway) Chew, Kean Ho's Legal & Licenses
 Creators: (Holloway) Chew, Kean Ho
 Contact: hello@chewkeanho.com
-SKU: chewkeanho-legals-policies-trademark
+SKU: chewkeanho-legal-policies-trademark
 UUID: 9B16AC6C-4A32-4C7C-8806-DF9213C34359
 License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
 Made On: 2026-02-27
